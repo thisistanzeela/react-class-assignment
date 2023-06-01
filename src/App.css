@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #ECF8F9;
+    background-color: #f6fcfc;
     color: #080202;
 }
 .grid-col-1{
@@ -40,7 +40,7 @@ li:hover {
 }
 
 .grid-col-2 {
-    color: #068DA9;
+    color: #30a2b9;
     font-style: italic;
     font-size: 18px;
     margin-right: 80px;
