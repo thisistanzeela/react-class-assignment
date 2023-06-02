@@ -67,7 +67,7 @@ import "./App.css";
 
 
 
-//........second way with useReducer..................
+//........second way ..................
 const App = () => {
   const [state, setState] = useState({
     users: [],
